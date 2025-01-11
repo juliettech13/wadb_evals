@@ -1,0 +1,8 @@
+weave 
+gradio 
+set-env-colab-kaggle-dotenv 
+tqdm 
+ipywidgets 
+requests 
+openai 
+pillow
