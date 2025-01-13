@@ -2,6 +2,7 @@ weave
 gradio 
 set-env-colab-kaggle-dotenv 
 tqdm 
+ipykernel
 ipywidgets 
 requests 
 openai 

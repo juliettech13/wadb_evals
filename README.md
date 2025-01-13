@@ -24,6 +24,9 @@ git clone https://github.com/altryne/llm-evals-workshop
 ```
 
 2. Install dependencies:
+
+> **Note**: This project requires Python 3.10 or higher
+
 ```bash
 pip install uv
 uv pip install -r requirements.txt
@@ -77,15 +80,9 @@ The workshop covers three main evaluation methods:
 ## Usage
 
 1. Run the Jupyter notebook:
-```bash
-jupyter notebook eval.ipynb
-```
 
-2. Use the Gradio interface to:
-   - View random Bluesky posts
-   - See AI classifications
-   - Provide human annotations
-   - Build evaluation datasets
+
+2. Follow the instructions, in the notebook. The items to do yourself are marked with `#TODO`
 
 ## Project Structure
 
